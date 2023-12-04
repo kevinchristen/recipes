@@ -1,6 +1,6 @@
 # Carnitas
 
-From Jared (2022-08-17 email).
+From Jared (2022-08-17 email). 30 min prep, 1.5 hr in instant pot.
 
 ## Ingredients
 
@@ -9,7 +9,7 @@ From Jared (2022-08-17 email).
 *   1 tsp pepper
 *   1 tbsp oregano
 *   1 tbsp cumin
-*   1 tsp paprika
+*   1 tsp paprika (or chile powder)
 *   1 white onion, cut into wedges
 *   8 cloves garlic, smashed
 *   2 limes, juiced

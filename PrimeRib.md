@@ -37,9 +37,9 @@ Tested size: 6 servings; makes about 1 1/2 cups
 ## Ingredients
 
 * 6 tablespoons heavy cream
-* 6 tablespoons buttermilk, preferably full-fat
+* 6 tablespoons buttermilk or kefir, preferably full-fat
 * 1/4 teaspoon kosher salt, or more as needed
-* 3/4 teaspoon prepared horseradish (white), or more as needed
+* 3/4 teaspoon prepared horseradish (white), or more as needed (I usually at least double this amount)
 * 3/4 teaspoon finely chopped fresh tarragon
 * 1/8 teaspoon ground cayenne pepper
 
@@ -50,4 +50,5 @@ Tested size: 6 servings; makes about 1 1/2 cups
 3. Transfer to an airtight container; refrigerate until ready to use (up to 1 day in advance).
 
 ## Log
+* Thanksgiving 2023: 5.2 lb roast. 4 hours for first stage cooking (after raising temp to 300). Plenty for 4.
 *  Thanksgiving 2022: 6.3 lb roast was twice as much as needed for 4 (3 "strings", according to the butcher). 6 hours from start to table.
