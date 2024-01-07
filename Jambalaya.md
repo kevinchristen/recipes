@@ -1,6 +1,6 @@
 # Creole-Style Red Jambalaya With Chicken, Sausage, and Shrimp
 
-From [Serious Eats](https://www.seriouseats.com/creole-style-red-jambalaya-chicken-sausage-shrimp-recipe). 1 hour 45 minutes (including skining and deboning chicken.
+From [Serious Eats](https://www.seriouseats.com/creole-style-red-jambalaya-chicken-sausage-shrimp-recipe). 1 hour 45 minutes (including skining and deboning chicken).
 
 ## Ingredients
 
