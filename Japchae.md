@@ -17,14 +17,14 @@ Korean stir fry with a sweet and savory sauce and glass noodles.
 ### Sauce
 
 * 3 T soy sauce
-* 3 T brown sugar
+* 2 T brown sugar
 * 3 T oyster sauce
 * 1 t of garlic from above
 * 1 t of arrowroot
 
 ### Noodles
 
-* Korean sweet potato noodles, aka dangmyun, glass noodles, cellophane noodles, or vermicelli
+* Korean sweet potato noodles, aka dangmyeon, glass noodles, cellophane noodles, or vermicelli
 * Sesame oil
 
 ## Instructions
