@@ -38,7 +38,7 @@ From [this Will Tennyson video](https://youtu.be/LYrVC671_yU?si=aDxTRX9hmvAIbnp7
 4. To shred, use mixer on low (1 minute or so).
 
 ## Quinoa
-1. Rinse 1 cup of quinao
+1. Rinse 1 cup of quinoa
 2. Add 1.5 cups of water
 2. Pressure cook in instant pot for 1 minute, with natural pressure release
 
