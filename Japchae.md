@@ -7,9 +7,9 @@ Korean stir fry with a sweet and savory sauce and glass noodles.
 ### Stir fry (exact amounts aren't critical)
 
 * 8 oz shitake mushrooms, sliced
-* 8 oz thinly sliced beef, pork, or chicken
+* 8 oz thinly sliced beef, or strips of pork or chicken
 * 2 bell peppers, sliced into strips
-* 1 carrot, jullianed or sliced thinly
+* 1 carrot, jullianed
 * 1 onion, sliced into strips
 * 4 cloves garlic, minced
 * Vegetable oil
@@ -29,10 +29,10 @@ Korean stir fry with a sweet and savory sauce and glass noodles.
 
 ## Instructions
 
-1. Soak noodles in hot water until soft, then drain and mix with some sesame oil to prevent sticking.
+1. Cook noodles in boiling water briefly until soft, then drain, cool with running water, and mix sesame oil in with hands to minimize sticking.
 2. Stir fry bell peppers and carrots in some oil, then set aside.
 3. Stir fry onions, then set aside.
-4. Stir fry meat. When it's mostly done, add mushrooms.
+4. Stir fry meat and mushrooms.
 5. Add garlic and stir until fragerent.
 6. Add stir fried ingredients back, add sauce, and allow to simmer until thickened.
 

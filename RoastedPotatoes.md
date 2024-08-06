@@ -13,7 +13,7 @@ Modified from [epicurious Rosemary and Garlic Roasted Potatoes](https://www.epic
 
 ## Instructions
 
-1. Preheat oven and iron skillet to 450℉.
+1. Preheat oven and iron skillet to 425℉ on convection.
 2. Clean potatoes, remove eyes, and cut into wedges.
 3. Toss potatoes with olive oil, garlic, salt, and pepper.
 4. Roast potatoes for about 45m until tender, tossing every 10m. Add rosemary near the end, so it doesn't burn.

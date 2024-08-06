@@ -1,6 +1,6 @@
 # Chicken Sweet Potato Thai Patties
 
-From [this Will Tennyson video](https://youtu.be/LYrVC671_yU?si=aDxTRX9hmvAIbnp7).
+From [this Will Tennyson video](https://youtu.be/LYrVC671_yU?si=aDxTRX9hmvAIbnp7). Makes 3 servings.
 
 ## Ingredients
 
@@ -23,8 +23,8 @@ From [this Will Tennyson video](https://youtu.be/LYrVC671_yU?si=aDxTRX9hmvAIbnp7
 ## Directions
 1. Blend all sauce ingredients together to form a paste
 2. Add to sweet potato, chicken, and quinoa mixture (the more you use the spicier it gets)
-3. Combine all ingredients well, then form into patties
-4. Sear each side until golden brown in a *non-stick* skillet
+3. Combine all ingredients well, then form into patties. Smaller patties or oblong shapes are easier to flip.
+4. Sear each side until golden brown in a *non-stick* skillet with cooking oil spray. About 4 min per side.
 
 ## Sweet potatoes
 1. Pierce each a few times with a fork
@@ -46,3 +46,5 @@ Two breasts is more than enough for this recipe.
 
 Makes about 600g of cooked quinoa.
 
+## Nutritional info
+320 kC, 22g protein, 4g fat, 52g carbs
