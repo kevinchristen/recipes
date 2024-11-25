@@ -22,8 +22,8 @@ Mix in pot in pot, place on trivet after adding water to instant pot, cook 8m on
 
 # Instant Pot Rice
 
-* rinsed rice
-* equal part water (more for brown rice, which doesn't need rinsing)
+* 1 part rinsed rice
+* 1 1/3 parts water (more for brown rice, which doesn't need rinsing)
 * salt
 * coconut oil
 

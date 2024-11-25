@@ -1,6 +1,8 @@
 # Buffalo Chicken
 
-Derived from various buffalo chicken dip recipes and trial and error.
+From [Healthy Crockpot Buffalo
+Chicken](https://skinnyfitalicious.com/healthy-crockpot-buffalo-chicken/), modified for Instant Pot
+according to various buffalo chicken dip recipes and trial and error.
 
 ## Ingredients
 
