@@ -16,6 +16,8 @@ Scale up the chicken, cottage cheese, and buffalo sauce to make more.
 
 ## Instructions
 
+[Alternative iron skillet approach to cooking the chicken breasts](ThaiPatties.md#shredded-chicken).
+
 1. Season chicken breasts with salt. If you skip this step, add salt to the IP.
 2. Blend cottage cheese and buffalo sauce until smooth.
 3. Coat bottom of instant pot with oil, add sauce, then chicken, coat chicken, and cook for 6 min on high pressure (more minutes for more chicken).

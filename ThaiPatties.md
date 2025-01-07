@@ -34,8 +34,8 @@ From [this Will Tennyson video](https://youtu.be/LYrVC671_yU?si=aDxTRX9hmvAIbnp7
 ## Shredded chicken
 1. Season chicken breasts and cook in skillet for 5 minutes until golden brown.
 2. Turn over, add 3/4 cup of chicken stock, cover, and poach for another 5 minutes.
-3. Remove and cool when internal temperature reaches 155℉ for 1 min.
-4. To shred, use mixer on low (1 minute or so).
+3. Remove when internal temperature reaches 155℉ for 1 min.
+4. To shred, use mixer on low while chicken is still warm (1 minute or so).
 
 Two breasts is more than enough for this recipe.
 
