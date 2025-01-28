@@ -7,11 +7,11 @@
 * 1 lb. dried kidney beans
 * homemade stock, if available
 * 1 ham hock
-* 0.5 lb. andouille sausage
+* 1 lb. andouille sausage
 * 1 diced onion
 * 6 cloves minced garlic
 * 1 diced bell pepper
-* 2-4 sliced celery stalks
+* 4 sliced celery stalks
 * 0.5t kosher salt
 * 0.25t black pepper
 * 1t thyme
@@ -20,6 +20,7 @@
 * 0.5t cayenne pepper
 * 1t cumin
 * 2 bay leaves
+* apple cider vinegar
 
 ## Instructions
 
@@ -32,3 +33,4 @@
 7. Bring beans to a boil, cover, and put in the oven.
 8. Check after 1h 15min.
 9. Remove ham hock, allow to cool, strip and dice meat, and add it back to the beans.
+10. Add apple cider vinegar (usually about 3T) and salt to taste.
