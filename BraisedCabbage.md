@@ -12,6 +12,7 @@ My own recipe. 45 min to completion.
 * 1 t chili powder
 * 1 t oregano
 * 1/2 t pepper
+* 2 T apple cider vinegar
 * kosher salt to taste
 
 ## Instructions
