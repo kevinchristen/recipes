@@ -23,11 +23,11 @@ Mix in pot in pot, place on trivet after adding water to instant pot, cook 8m on
 # Instant Pot Rice
 
 * 1 part rinsed rice
-* 1 1/3 parts water (more for brown rice, which doesn't need rinsing)
+* 1 1/4 parts water (more for brown rice, which doesn't need rinsing)
 * salt
 * coconut oil
 
-4m on high pressure, 10m natural pressure release.
+5m on high pressure, 10m natural pressure release.
 
 # Instant Pot Egg Bites
 

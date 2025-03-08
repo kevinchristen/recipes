@@ -33,7 +33,7 @@ Korean stir fry with a sweet and savory sauce and glass noodles. 70 minutes tota
 2. Stir fry bell peppers and carrots in some oil, then set aside.
 3. Stir fry onions, then set aside.
 4. Stir fry meat and mushrooms.
-5. Add garlic and stir until fragerent.
+5. Add garlic and stir until fragrant.
 6. Add stir fried ingredients back, add sauce, and allow to simmer until thickened.
 
 Serve on the noodles. Stir frying separately maintains the colors of the vegetables.
