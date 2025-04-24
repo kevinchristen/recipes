@@ -9,7 +9,7 @@ Korean stir fry with a sweet and savory sauce and glass noodles. 70 minutes tota
 * 8 oz shitake mushrooms, sliced
 * 16 oz thinly sliced beef, or strips of pork or chicken. Flank steak is my usual choice.
 * 2 bell peppers, sliced into strips
-* 1 carrot, jullianed
+* 2 carrots, jullianed
 * 1 onion, sliced into strips
 * 4 cloves garlic, minced
 * Vegetable oil

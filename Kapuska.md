@@ -15,6 +15,7 @@ Modified from [Sweet and Savory Meals](https://sweetandsavorymeals.com/turkish-c
 *   salt & pepper
 *   1 medium cabbage head, thick stem removed, washed and roughly chopped
 *   2c beef broth
+*   Apple cider vinegar
 
 ## Instructions
 
@@ -23,4 +24,4 @@ Modified from [Sweet and Savory Meals](https://sweetandsavorymeals.com/turkish-c
 3.  Add the ground beef and cook until nicely browned, breaking it down with a wooden spoon, about 5-7 minutes.
 4.  Add the tomato paste, red pepper flakes, paprika, cumin, coriander, and salt. Stir and cook for 1 minute.
 5.  Add the cabbage and the broth. Cover the pot and simmer, stirring occasionally, for 20 - 25 minutes or until cabbage is tender.
-6.  Taste and adjust for salt and pepper. Garnish with parsley and serve.
+6.  Taste and adjust for salt, pepper, and apple cider vinegar.

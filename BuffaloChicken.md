@@ -1,8 +1,7 @@
 # Buffalo Chicken
 
 From [Healthy Crockpot Buffalo
-Chicken](https://skinnyfitalicious.com/healthy-crockpot-buffalo-chicken/), modified for Instant Pot
-according to various buffalo chicken dip recipes and trial and error.
+Chicken](https://skinnyfitalicious.com/healthy-crockpot-buffalo-chicken/), modified from various buffalo chicken dip recipes and trial and error.
 
 ## Ingredients
 
@@ -16,11 +15,11 @@ Scale up the chicken, cottage cheese, and buffalo sauce to make more.
 
 ## Instructions
 
-[Alternative iron skillet approach to cooking the chicken breasts](ThaiPatties.md#shredded-chicken).
-
-1. Season chicken breasts with salt. If you skip this step, add salt to the IP.
-2. Blend cottage cheese and buffalo sauce until smooth.
-3. Coat bottom of instant pot with oil, add sauce, then chicken, coat chicken, and cook for 6 min on high pressure (more minutes for more chicken).
-4. After natural pressure release, shred chicken and mix with sauce.
+1. Season chicken breasts and cook in skillet for 5 minutes until golden brown.
+2. Turn over, add 3/4 cup of chicken stock, cover, and poach for another 5 minutes.
+3. Remove when internal temperature reaches 155℉ for 1 min.
+4. To shred, use mixer on low while chicken is still warm (1 minute or so).
+5. Blend cottage cheese and buffalo sauce until smooth.
+7. Mix chicken and sauce.
 
 Serve on a green salad or over rice.

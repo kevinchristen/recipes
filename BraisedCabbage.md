@@ -17,8 +17,8 @@ My own recipe. 45 min to completion.
 
 ## Instructions
 
-1. Cook bacon and reserve fat
-2. Chop bacon and thinly slice cabbage
-3. Braise cabbage in stock in a covered dutch oven until softened, then uncover and continue to cook until most of the stock evaporates
-4. Add remaining ingredients (including bacon fat) and stir while continuing to cook
-5. Taste and adjust
+1. Cook bacon and reserve fat.
+2. Chop bacon and roughly slice cabbage.
+3. Braise cabbage in stock in a covered dutch oven until slightly softened, then uncover and continue to cook until most of the stock evaporates. Don't overcook; final product is better when the cabbage isn't soft all the way through.
+4. Add remaining ingredients (including bacon fat) and stir while continuing to saute.
+5. Taste and adjust.
