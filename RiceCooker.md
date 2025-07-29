@@ -9,7 +9,8 @@ Total time 1 hour 15 minutes. Cooking cycle takes 1 hour.
 * 1.5 cups Nishiki Medium Grain Rice
 * 2 cups water
 
-1. Rinse and drain rice in the cooking bowl until the cloudiness clears, usually about 5 times. Refill bowl with water to about 1/4 inch over the 2 cup mark on either the sushi or white rice scale.
+1. Put rice and water in rice maker bowl and note height of water (about 1/8 inch over the 2 cup mark on either the sushi or white rice scale).
+1. Rinse and drain rice in the cooking bowl until the cloudiness clears, usually about 5 times. Refill bowl with water to to original level.
 2. Cook on *Reg/Sushi* setting.
 
 ## Steel cut oats
