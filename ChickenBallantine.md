@@ -8,12 +8,12 @@ Chicken Ballantine (served hot) or Galantine (served cold). From [Jacques Pépin
 2.  With the breast up, remove wishbone by slicing along the top on both sides, stick fingers and thumb around it, and twist it out.
 3.  Slice the skin along the backbone.
 4.  Cut just through both sholder joints from the neck end.
-5.  Grab breast and side with upper wing against your palm, and peel away from the carcass and filet until you see the oyster. Repeat on the other side.
+5.  Grab breast and side with upper wing against your palm, and peel away from the carcass and filet until you see the oyster, which is near the hip joint. Repeat on the other side.
 6. Hold carcass in one hand and breasts in the other, and pull the breasts off of the filets.
 7. Slice to (but not through) the hip joint, push upper leg toward sternum, and bend down to dislocate hip. Slice through the ligament in the joint. Repeat on the other side.
 8. Pull carcass completely free of the meat.
 9. Peel filets from the carcass by running your thumb behind them.
-10. Scrape tendon from filets by pinning it down with a towel and scraping the meat off of it with knife blade.
+10. Scrape tendon from filet by pinning it down with a towel and scraping the meat off of it with knife blade.
 11. Cut around ball joint of upper leg at hip to thigh bone, being careful to leave leg meat attached to lower breast, and scrap leg off of bone to the knee.
 12. Do the same at the knee, slicing the meat to peel it from the knee joint, then scraping it away from the lower leg to the ankle.
 13. Replace the scraped lower leg around bone, and use the spine of your knife to break the lower leg bone just above the ankle, then pull the leg bones off of the meat. The ankle will be trimmed after cooking.
@@ -24,7 +24,7 @@ Chicken Ballantine (served hot) or Galantine (served cold). From [Jacques Pépin
 ## Cooking
 
 1. Preheat oven and iron skillet to 450℉. Chicken will shrink as it cooks; the 10 inch iron skillet is big enough.
-2. Stuff and truss chicken, and sprinkle with salt.
+2. Stuff and truss chicken, and sprinkle with salt. Do not truss tightly; or the chicken will swell around the twine as it cooks.
 3. After putting chicken in the oven, reduce heat to 350℉.
 4. Cook until internal temperature reaches 160℉.
 5. Make a pan sauce while the chicken rests for 30m.
