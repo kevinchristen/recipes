@@ -23,7 +23,7 @@ Chicken Ballantine (served hot) or Galantine (served cold). From [Jacques Pépin
 
 ## Cooking
 
-1. Preheat oven and iron skillet to 450℉. Chicken will shrink as it cooks; the 10 inch iron skillet is big enough.
+1. Preheat oven and iron skillet to 450℉ (will reduce to 350℉ for cooking). Chicken will shrink as it cooks; the 10 inch iron skillet is big enough.
 2. Stuff and truss chicken, and sprinkle with salt. Do not truss tightly; or the chicken will swell around the twine as it cooks.
 3. After putting chicken in the oven, reduce heat to 350℉.
 4. Cook until internal temperature reaches 160℉.

@@ -1,5 +1,5 @@
 # Kombucha
-From [this Laesk YouTube video](https://youtu.be/LmsVReoRIDI?si=3kfUZNzsbFSd3GQe).
+From [this Laesk YouTube video](https://youtu.be/LmsVReoRIDI?si=3kfUZNzsbFSd3GQe). F1 takes about 13 days in a cold house on a germination pad and covered with kitchen towels.
 
 ## Ingredients (for about 3.5L)
 
@@ -7,7 +7,7 @@ From [this Laesk YouTube video](https://youtu.be/LmsVReoRIDI?si=3kfUZNzsbFSd3GQe
 * 280 gm sugar
 * 500 mL (16 oz) finished kombucha (from last batch, or purchased)
 
-## Instructions
+## Instructions for F1
 
 1. Boil 1L water and let it sit for 2 min to partially cool.
 2. Steep tea for 12 min, stirring.
@@ -19,9 +19,13 @@ From [this Laesk YouTube video](https://youtu.be/LmsVReoRIDI?si=3kfUZNzsbFSd3GQe
 8. Cover with breathable cloth and store in warm area. This is F1 (first fermentation).
 9. Bottle or drink when you like the balance of sweetness and acidity.
 
-## Cherry flavor
+## Instructions for F2
 
-* 1 cup of frozen cherries, thawed
-* 2T of sugar
+1. Add flavoring to bottles, about 2 oz / 12 oz bottle
+2. Strain F1 Kombucha, then fill bottles with it.
 
-Blend and add to bottles for F2. Tried 2 oz/16 oz and 1 oz/12 oz.
+
+## Flavorings for  F2
+
+* 1 cup of frozen cherries, thawed and blended + 2T of sugar
+*  2 oz apple juice / 12 oz bottle
