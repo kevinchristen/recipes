@@ -24,5 +24,6 @@ Total time 1 hour.
 * Salt
 * 2 cups oat milk
 * 2.25 cups water
+* 1 t coconut oil or butter to reduce foaming
 
 Cook on *Porridge* setting.
