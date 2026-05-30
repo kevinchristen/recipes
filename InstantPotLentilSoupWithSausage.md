@@ -2,10 +2,7 @@
 
 From the [New York
 Times](https://cooking.nytimes.com/recipes/1020078-pressure-cooker-lentil-soup-with-sausage)
-by Sarah DiGregorio.
-
-    Yield 6 servings
-    Time 70 minutes
+by Sarah DiGregorio.  Yield 6 servings. Time 70 minutes.
 
 ## Ingredients
 
@@ -56,3 +53,11 @@ by Sarah DiGregorio.
     2 to 5 minutes, depending on the type of green. Stir in the vinegar and
     season to taste with salt and pepper. Divide among bowls and top with
     basil and Parmesan.
+
+## Nutrition (6 servings)
+
+* Calories: 554
+* Fat: 22.1g
+* Carbs: 72.4g
+* Fiber: 17.1g
+* Protein: 22.6g
