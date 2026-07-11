@@ -13,7 +13,7 @@ From [So Much Food Blog Same Day Pizza Dough](https://somuchfoodblog.com/same-da
 ### Quantities
 
 | # of pies | Bread flour (gm) | Yeast (teaspoon) | Salt (gm) | Water (gm) | Olive Oil (Tablespoon) |
-| --------- | ---------------- | ---------------- | --------- | ---------- | ---------------------_ |
+| --------- | ---------------- | ---------------- | --------- | ---------- | ---------------------- |
 | 3 | 500 | 1 | 10 | 290 | 2 |
 | 4 | 600 | 1 | 12 | 350 | 2 |
 
