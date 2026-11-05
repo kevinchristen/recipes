@@ -3,7 +3,7 @@
 ## Ingredients
 
 * 1 lb ground beef
-* 2 T chili powder
+* 1 1/2 T chili powder
 * 1 1/2 t kosher salt
 * 1 t granulated garlic
 * 1 t granulated onion

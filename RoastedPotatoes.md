@@ -1,23 +1,22 @@
 # Roasted Potatoes
 
-Modified from [epicurious Rosemary and Garlic Roasted Potatoes](https://www.epicurious.com/recipes/food/views/rosemary-and-garlic-roasted-potatoes-357469). Total time 1h.
+Modified from [epicurious Rosemary and Garlic Roasted Potatoes](https://www.epicurious.com/recipes/food/views/rosemary-and-garlic-roasted-potatoes-357469). Total time 45 minutes, or for alternate approach, 1h.
 
 ## Ingredients
 
 * 2 lbs. potatoes
-* Olive oil
-* 4 garlic cloves, minced
+* Olive oil or duck fat
+* 1 t. garlic powder
+* 1/2 t. ground cumin
 * Kosher salt
 * Pepper
-* Chopped fresh rosemary
 
 ## Instructions
 
 1. Preheat oven and iron skillet to 425℉ on convection.
-2. Clean potatoes, remove eyes, and cut into wedges.
-3. Toss potatoes with olive oil, garlic, salt, and pepper.
-4. Roast potatoes for about 45m until tender, tossing every 10m. Add rosemary near the end, so it doesn't burn.
-5. Serve with aioli.
+2. Clean potatoes, remove eyes, and cut into 1 inch or slightly smaller chunks.
+3. Cook in a covered dish with salted water in the bottom in microwave for 12 minutes, or until near fork tender. Pore off water and allow to steam for a minute or two.
+4. Roast with fat, and and spices, tossing occasionally, until crispy.
 
 # Aioli
 

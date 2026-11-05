@@ -43,6 +43,6 @@ Serve immediately.
 ## Nutritional info (per serving, recipe makes 6)
 
 * 674 Calories
-* 39g Fat
 * 41g Carbs
+* 39g Fat
 * 39g Protein
