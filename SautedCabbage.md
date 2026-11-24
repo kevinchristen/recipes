@@ -19,6 +19,6 @@ My own recipe. 45 min to completion.
 
 1. Cook bacon slowly in a dutch oven until crisp. Remove and reserve fat.
 2. Chop bacon and roughly slice cabbage.
-3. Saute cabbage and spices in a bacon fat in covered dutch oven until slightly softened. Don't overcook; final product is better when the cabbage isn't soft all the way through.
+3. Bloom spices in bacon grease, then add cabbage, stir, and saute in covered dutch oven until slightly softened. Don't overcook; final product is better when the cabbage isn't soft all the way through.
 4. Add bacon after chopping.
 5. Taste, add vinegar, and adjust.

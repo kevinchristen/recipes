@@ -1,6 +1,6 @@
 # Roasted Potatoes
 
-Modified from [epicurious Rosemary and Garlic Roasted Potatoes](https://www.epicurious.com/recipes/food/views/rosemary-and-garlic-roasted-potatoes-357469). Total time 45 minutes, or for alternate approach, 1h.
+Modified from [epicurious Rosemary and Garlic Roasted Potatoes](https://www.epicurious.com/recipes/food/views/rosemary-and-garlic-roasted-potatoes-357469). Total time 1h.
 
 ## Ingredients
 
